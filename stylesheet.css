@@ -3,12 +3,13 @@
 }
 
 
+#pic4{
+    background-image: url("IMG4.JPG");
+   background-size:contain, no-repeat; 
+   height:500px;
+   width:800px;
+}
 
-
-
-
-
-
-#adminHeader{
+.Header{
     text-align: center;
 }
