@@ -3,11 +3,28 @@
 }
 
 
-#pic4{
-    background-image: url("IMG4.JPG");
-   background-size:contain, no-repeat; 
-   height:500px;
-   width:800px;
+#fs1{
+    
+ background: linear-gradient(
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
+  ), url('IMG4.JPG') no-repeat center;
+  background-size: cover;
+  background-color: white;
+  display: table;
+  color:white;
+  
+}
+.full-w{
+  width:100%;
+}
+.full-h {
+  height: 100%;
+}
+
+.vert-center {
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .Header{
