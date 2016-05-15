@@ -64,6 +64,15 @@ font-size:18px;
 }
 
 .list{
-  font-size:12px;
+  font-size:15px;
+}
+
+#parent{
+  font-family: 'Archivo Black', sans-serif;
+ 
+}
+
+#admin{
+  font-family: 'Archivo Black', sans-serif;
 }
 
