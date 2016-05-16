@@ -5,12 +5,12 @@
 }
 
 
-#fs1{
+#front-font{
     
  background: linear-gradient(
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5)
-  ), url('IMG4.JPG') no-repeat center;
+  ), url('IMG4.JPG') no-repeat center fixed;
   background-size: cover;
   background-color: white;
   display: table;
@@ -44,7 +44,7 @@
 
 #Q3{
   font-size:25px;
-  color:;
+  color:blue;
 }
 
 
@@ -76,3 +76,8 @@ font-size:18px;
   font-family: 'Archivo Black', sans-serif;
 }
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+  }
