@@ -1,25 +1,21 @@
-.family{
-    text-align: center;
-    font-size:100px;
-    color:blue;
+.family {
+  text-align: center;
+  font-size: 100px;
+  color: blue;
 }
 
-
-#front-font{
-    
- background: linear-gradient(
-    rgba(0,0,0,0.5),
-    rgba(0,0,0,0.5)
-  ), url('IMG4.JPG') no-repeat center fixed;
+#front-font {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('IMG4.JPG') no-repeat center fixed;
   background-size: cover;
   background-color: white;
   display: table;
-  color:white;
-  
+  color: white;
 }
-.full-w{
-  width:100%;
+
+.full-w {
+  width: 100%;
 }
+
 .full-h {
   height: 100%;
 }
@@ -29,62 +25,68 @@
   vertical-align: middle;
 }
 
-.Header{
-
-    text-align: center;
+.Header {
+  text-align: center;
 }
 
-#frontPage{
-  font-size:160px;
+#frontPage {
+  font-size: 160px;
 }
 
-#student{
-    font-family: 'Archivo Black', sans-serif;
-}
-
-#Q3{
-  font-size:25px;
-  color:blue;
-}
-
-
-#head-list1{
-font-family: 'Crete Round', serif;
-font-size:18px;
-}
-
-#head-list2{
-  font-family: 'Crete Round', serif;
-  font-size:18px;
-}
-
-#head-list3{
-  font-family: 'Crete Round', serif;
-  font-size:18px;
-}
-
-.list{
-  font-size:15px;
-}
-
-#parent{
-  font-family: 'Archivo Black', sans-serif;
- 
-}
-
-#admin{
+#student {
   font-family: 'Archivo Black', sans-serif;
 }
 
-#footer{
-background-color: #D3D3D3;
+#Q3 {
+  font-size: 25px;
+  color: blue;
 }
-#studentBackground{
- 
+
+#head-list1 {
+  font-family: 'Crete Round', serif;
+  font-size: 18px;
 }
-#parentBackground{
+
+#head-list2 {
+  font-family: 'Crete Round', serif;
+  font-size: 18px;
+}
+
+#head-list3 {
+  font-family: 'Crete Round', serif;
+  font-size: 18px;
+}
+
+.list {
+  font-size: 15px;
+}
+
+#parent {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+#admin {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+#footer {
+  background-color: #D3D3D3;
+}
+
+#family-background {
+  background-image: url("IMG9.JPG");
+}
+
+#studentBackground {
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG6.JPG");
+   background-repeat: no-repeat;
   
 }
-#adminBackground{
+
+#parentBackground {
+  
+}
+
+#adminBackground {
   
 }
