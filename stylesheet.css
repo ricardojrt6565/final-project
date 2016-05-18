@@ -1,7 +1,10 @@
 .family {
   text-align: center;
-  font-size: 100px;
-  color: blue;
+  font-size: 60px;
+  padding:200px;
+  color:white;
+  
+  
 }
 
 #front-font {
@@ -31,6 +34,7 @@
 
 #frontPage {
   font-size: 160px;
+  padding:500px;
 }
 
 #student {
@@ -74,12 +78,13 @@
 }
 
 #family-background {
-  background-image: url("IMG9.JPG");
+   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG9.JPG");
+   background-size:cover;
+   position:center;
 }
 
 #studentBackground {
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG6.JPG");
-   background-repeat: no-repeat;
+ background-image: url("IMG6.JPG");
   
 }
 
