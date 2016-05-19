@@ -79,11 +79,11 @@ background:linear-gradient(-90DEG, #0FB8AD, #1fc8db ,#1fc8db);
 
 
 
-/*#family-background {*/
-/*   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG9.JPG");*/
-/*   background-size:cover;*/
-/*   position:center;*/
-/*}*/
+#family-background {
+   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG9.JPG");
+   background-size:cover;
+   position:center;
+}
 
 #studentBackground {
  background-image: url("IMG6.JPG");
