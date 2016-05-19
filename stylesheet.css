@@ -88,6 +88,7 @@ background:linear-gradient(-90DEG, #0FB8AD, #1fc8db ,#1fc8db);
 #studentBackground {
  background-image: url("IMG6.JPG");
  background-size:cover;
+ padding:100px;
   
 }
 
