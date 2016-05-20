@@ -34,7 +34,7 @@
 
 #frontPage {
   font-size: 160px;
-  padding:500px;
+  padding:50px 0px 100px;
 }
 
 #student {
@@ -71,11 +71,12 @@
 
 #admin {
   font-family: 'Archivo Black', sans-serif;
+  
 }
 
 
 #footer{
-background:#A9A9A9;
+background:#696969;
 }
 
 
@@ -89,7 +90,7 @@ background:#A9A9A9;
  
  background-size:cover;
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG6.JPG");
- padding:100px;
+ padding:150px;
   background-size:cover;
   color: white;
 }
@@ -100,7 +101,12 @@ background:#A9A9A9;
  padding:250px;
   background-size:cover;
 }
+.P-list{
+  color:white;
+}
 
 #adminBackground {
-    
+ background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0)), url("Brooklynpic.jpg");
+    background-size:cover;
+    padding:200px;
 }
