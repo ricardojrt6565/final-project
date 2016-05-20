@@ -35,6 +35,16 @@
 #frontPage {
   font-size: 160px;
   padding:500px;
+
+@media (max-width: @screen-xs) {
+    body{font-size: 10px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+
+
 }
 
 #student {
@@ -83,11 +93,13 @@ background:#A9A9A9;
    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG9.JPG");
    background-size:cover;
   
+
+
+
+  
 }
 
 #studentBackground {
- 
- background-size:cover;
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG6.JPG");
  padding:100px;
   background-size:cover;
