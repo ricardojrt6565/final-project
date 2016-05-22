@@ -1,6 +1,6 @@
 .family {
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
   padding:200px;
   color:white;
   
@@ -32,37 +32,41 @@
   text-align: center;
 }
 
-#frontPage {
+#front-page {
   font-size: 160px;
-  padding:50px 0px 100px;
+  padding:170px;
+  color:	#00BFFF ;
+  
 }
 
 #student {
   font-family: 'Archivo Black', sans-serif;
+  font-size:80px;
+  color: #00BFFF ;
 }
 
 #Q3 {
-  font-size: 25px;
-  color: blue;
+  font-size: 65px;
+  color: #00BFFF ;
 }
 
-#head-list1 {
+#Q1 {
   font-family: 'Crete Round', serif;
-  font-size: 18px;
+  font-size: 35px;
 }
 
-#head-list2 {
+#Q2{
   font-family: 'Crete Round', serif;
-  font-size: 18px;
+  font-size: 35px;
 }
 
 #head-list3 {
   font-family: 'Crete Round', serif;
-  font-size: 18px;
+  font-size: 35px;
 }
 
 .list {
-  font-size: 15px;
+  font-size: 25px;
 }
 
 #parent {
@@ -88,10 +92,10 @@ background:#696969;
 
 #studentBackground {
  
- background-size:cover;
+
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG6.JPG");
- padding:150px;
-  background-size:cover;
+ padding:200px;
+ background-size:cover;
   color: white;
 }
 
