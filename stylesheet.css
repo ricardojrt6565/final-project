@@ -112,7 +112,7 @@ background:#696969;
 
 #parentBackground {
  
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("FamilyPic.jpg");
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("FamilyPic.jpg") no-repeat fixed;
  padding:200px;
   background-size:cover;
 }
