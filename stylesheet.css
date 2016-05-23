@@ -72,6 +72,7 @@
 
 .list {
   font-size: 30px;
+  padding:10px;
 }
 
 #parent {
@@ -82,7 +83,8 @@
 
 #admin {
   font-family: 'Archivo Black', sans-serif;
-  
+  font-size:80px;
+  color: #00BFFF ;
 }
 
 
@@ -107,16 +109,27 @@ background:#696969;
 #parentBackground {
  
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("FamilyPic.jpg");
- padding:250px;
+ padding:200px;
   background-size:cover;
 }
 .P-list{
   color:white;
   font-size: 25px;
+  padding:15px;
 }
 
 #adminBackground {
  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0)), url("Brooklynpic.jpg");
     background-size:cover;
-    padding:200px;
+    padding:300px;
+}
+
+.admin-list{
+  color:white;
+  font-size:20px;
+  padding:10px;
+}
+
+#creator{
+  color: #59c3ec;
 }
