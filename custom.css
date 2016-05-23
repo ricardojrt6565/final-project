@@ -1,0 +1,141 @@
+.family {
+  text-align: center;
+  font-size: 80px;
+  padding:200px;
+  color:white;
+  
+  
+}
+
+#front-font {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('IMG4.JPG') no-repeat center fixed;
+  background-size: cover;
+  background-color: white;
+  display: table;
+  color: white;
+}
+
+.full-w {
+  width: 100%;
+}
+
+.full-h {
+  height: 100%;
+}
+
+.vert-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.Header {
+  text-align: center;
+}
+
+#front-page {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150px;
+  padding:170px;
+  color:	#00BFFF ;
+  
+}
+
+#student {
+  font-family: 'Archivo Black', sans-serif;
+  font-size:80px;
+  color: #00BFFF ;
+}
+
+
+
+#Q1 {
+  font-family: 'Crete Round', serif;
+  font-size: 30px;
+}
+
+#Q2{
+  font-family: 'Crete Round', serif;
+  font-size: 30px;
+}
+
+#Q3 {
+  font-family: 'Crete Round', serif;
+  font-size: 60px;
+  color: #00BFFF ;
+}
+
+.head-list {
+  font-family: 'Crete Round', serif;
+  font-size: 45px;
+  color: #00BFFF
+}
+
+.list {
+  font-size: 30px;
+  padding:10px;
+}
+
+#parent {
+  font-family: 'Archivo Black', sans-serif;
+  font-size:80px;
+  color: #00BFFF ;
+}
+
+#admin {
+  font-family: 'Archivo Black', sans-serif;
+  font-size:80px;
+  color: #00BFFF ;
+}
+
+
+#footer{
+background:#696969;
+}
+
+
+#family-background {
+   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("IMG9.JPG");
+   background-size:cover;
+  
+}
+
+#studentBackground {
+ background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG6.JPG");
+ padding:200px;
+ background-size:cover;
+  color: white;
+}
+
+#parentBackground {
+ 
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("FamilyPic.jpg");
+ padding:200px;
+  background-size:cover;
+}
+.P-list{
+  color:white;
+  font-size: 25px;
+  padding:15px;
+}
+
+#adminBackground {
+ background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0)), url("Brooklynpic.jpg");
+    background-size:cover;
+    padding:300px;
+}
+
+.admin-list{
+  color:white;
+  font-size:20px;
+  padding:10px;
+}
+
+.admin-list2{
+  font-size:20px;
+  padding:5px;
+  color:#00BFFF ;
+}
+
+#creator{
+  color: #59c3ec;
+}
